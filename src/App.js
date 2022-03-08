@@ -4,7 +4,7 @@ import './App.css';
 function SeeSharpGuide(){
   return (
     <div>
-      SeeSharpGuide 입니다
+      SeeSharpGuide 입니다!!
     </div>
   );
 }
